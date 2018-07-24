@@ -3,3 +3,8 @@ SOURCES:
 https://deepmind.com/blog/deepmind-and-blizzard-open-starcraft-ii-ai-research-environment/
 http://us.battle.net/sc2/en/blog/20944009/the-starcraft-ii-api-has-arrived-8-9-2017
 https://www.youtube.com/watch?v=J6Q0TIPDB-Y
+
+REQUIREMENTS:
+pip3 install --user --upgrade sc2
+
+
